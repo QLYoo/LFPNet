@@ -26,4 +26,15 @@ Results on Adobe Composite 1K (with TTA): https://1drv.ms/u/s!AtvVjmAsYCTQce52EK
 ## Evaluation
 We provide the script `eval.py`  for evaluation (patch based with TTA).
 
+## Citation
+
+```
+@inproceedings{liu2021lfpnet,
+  title   = {Long-Range Feature Propagating for Natural Image Matting},
+  author  = {Qinglin Liu, Haozhe Xie, Shengping Zhang, Bineng Zhong and Rongrong Ji},
+  booktitle={ACM Multimedia},
+  year={2021}
+}
+```
+
 
