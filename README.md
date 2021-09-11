@@ -1,6 +1,6 @@
 # LFPNet
 
-Official repository for the paper **Long-Range Feature Propagating for Natural Image Matting.**
+Official repository for the paper [**Long-Range Feature Propagating for Natural Image Matting.**](https://arxiv.org/)
 
 ## Description
 
