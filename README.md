@@ -21,7 +21,7 @@ A GPU with 11GB memory for any resolution images.
 - imgaug >= 0.3.0
 
 ## Models
-**The model trained on Adobe Image Matting Dataset can only be used and distributed for noncommercial purposes.** 
+**The model can only be used and distributed for noncommercial purposes.** 
 
 | Model Name  |   Size   | MSE | SAD | Grad | Conn |
 | :------------: |:-----------:| :----:|:---:|:---:|:---:|
