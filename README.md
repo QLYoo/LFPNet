@@ -1,4 +1,4 @@
-# LFPNet[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/long-range-feature-propagating-for-natural/image-matting-on-composition-1k-1)](https://paperswithcode.com/sota/image-matting-on-composition-1k-1?p=long-range-feature-propagating-for-natural)
+# LFPNet [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/long-range-feature-propagating-for-natural/image-matting-on-composition-1k-1)](https://paperswithcode.com/sota/image-matting-on-composition-1k-1?p=long-range-feature-propagating-for-natural)
 
 Official repository for the paper [**Long-Range Feature Propagating for Natural Image Matting.**](https://arxiv.org/abs/2109.12252)
 
